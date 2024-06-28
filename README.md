@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Basak</h1>
-<h3 align="center">Pre-Final Year BTech ECE Student With a Passion for Technology and a Strong Foundation in Programming languages, Data structures, and Software development.</h3>
+<h3 align="center">Final Year BTech ECE Student With a Passion for Technology and a Strong Foundation in Programming languages, Data structures, and Software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-codes&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-codes" /> </p>
